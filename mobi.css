@@ -1,0 +1,44 @@
+.container{
+    display: none;
+}
+.nav{
+    display: flex;
+    height: 44px;
+    min-width: 400px;
+    width: 100%;
+    background-color: rgb(42, 42, 185);
+    align-items: center;
+    justify-content: center;
+}
+.nav p{
+    font-family: "facebook letter faces";
+    color: white;
+}
+.loginm{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+form{
+    display: grid;
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    background-color: cornsilk;
+    justify-content: center;
+    grid-template-columns: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.logm{
+    display: grid;
+    justify-content: center;
+    background-color: rgb(51, 91, 136);
+    margin: 10px 50px;
+    padding: 10px;
+    height: 30px;
+    width: 90px;
+    align-content: center;
+}

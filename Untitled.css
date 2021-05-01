@@ -82,3 +82,6 @@ form input{
         display: none;
     }
 }
+.mobile{
+    display: none;
+}
